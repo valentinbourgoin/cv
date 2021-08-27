@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Valentin Bourgoin</title>
+        <title>Valentin Bourgoin | CTO / CPO on-demand</title>
         <link rel="icon" href="/favicon.png" />
       </Head>
 
