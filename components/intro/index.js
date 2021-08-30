@@ -8,7 +8,7 @@ export default function Intro() {
             <h5>Hello 👋</h5>
             <h1>I'm Valentin Bourgoin.</h1>
             <p className="intro-position">
-              <span>CTPO on-demand based in Nantes, France.</span>
+              <span>CPTO on-demand based in Nantes, France.</span>
             </p>
             <a className="button stroke smoothscroll" href="#about" title="">More About Me</a>
           </div>  
@@ -18,7 +18,6 @@ export default function Intro() {
       <ul className="intro-social">        
           <li><a target="_blank" href="https://www.linkedin.com/in/valentinbourgoin/"><i className="fa fa-linkedin"></i></a></li>
           <li><a target="_blank" href="https://twitter.com/valentin_"><i className="fa fa-twitter"></i></a></li>
-          <li><a target="_blank" href="https://instagram.com/valentinbgn"><i className="fa fa-instagram"></i></a></li>
           <li><a target="_blank" href="https://www.komoot.fr/user/984970505637">
             <img src="/images/icon-komoot.svg" alt="Komoot" />
           </a></li>

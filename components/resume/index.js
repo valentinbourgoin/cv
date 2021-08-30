@@ -6,7 +6,7 @@ export default function Resume() {
    			<h5>Resume</h5>
    			<h1>More of my references.</h1>
 
-   			<p className="lead">You will find below my main experiences as CTO / CPO or web enginneer.</p>
+   			<p className="lead">You will find below my main experiences as CTO / CPO or web engineer.</p>
 
    		</div>   		
    	</div>
