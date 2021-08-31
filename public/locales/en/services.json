@@ -1,0 +1,27 @@
+{
+  "title": "Services", 
+  "subtitle": "What can I do for you?",
+  "text": "You have short term needs on the development strategy of an MVP, on the scale of your organization or on the processes to set up to maximize the delivery? I will be happy to help you.",
+  "services": {
+    "service1": {
+      "title": "MVP strategy",
+      "text": "What functionality should be prioritized? How to minimize the time-to-market?"
+    },
+    "service2": {
+      "title": "Technical architecture",
+      "text": "How to design your next killer feature? What tools to use and what architecture to implement? "
+    },
+    "service3": {
+      "title": "Team organization",
+      "text": "How to manage the delivery and maximize the velocity of your teams? "
+    },
+    "service4": {
+      "title": "Audit",
+      "text": "How to improve your existing organization, tech and/or product? "
+    },
+    "service5": {
+      "title": "Coaching",
+      "text": "How to support your teams over the long term and help them progress?"
+    }
+  }
+}

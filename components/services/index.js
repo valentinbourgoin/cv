@@ -1,11 +1,16 @@
-const Services = () => (
+import { useTranslation } from 'next-i18next';
+
+export default function Services() {
+  const { t } = useTranslation('services');
+
+	return (
     <section id="services">
 
 			<div className="row section-intro">
 	   		<div className="col-twelve">
-	   			<h5>Services</h5>
-	   			<h1>What Can I Do For You?</h1>
-	   			<p className="lead">You have short term needs on the development strategy of an MVP, on the scale of your organization or on the processes to set up to maximize the delivery? I will be happy to help you.</p>
+	   			<h5>{t('title')}</h5>
+	   			<h1>{t('subtitle')}</h1>
+	   			<p className="lead">{t('text')}</p>
 	   		</div>   		
 	   	</div>
 
@@ -14,9 +19,9 @@ const Services = () => (
 					<div className="service">	
 						<span className="icon"><i className="fa fa-road fa-stack-1x fa-inverse"></i></span>            
 						<div className="service-content">	
-							<h3>MVP strategy</h3>
+							<h3>{t('services.service1.title')}</h3>
 							<p className="desc">
-								What functionality should be prioritized? How to minimize the time-to-market?
+                {t('services.service1.text')}
 							</p>
 						</div>
 					</div>
@@ -24,9 +29,9 @@ const Services = () => (
 					<div className="service">	
 						<span className="icon"><i className="fa fa-cogs fa-stack-1x fa-inverse"></i></span>            
 						<div className="service-content">	
-							<h3>Technical architecture</h3>
+							<h3>{t('services.service2.title')}</h3>
 							<p className="desc">
-								How to design your next killer feature? What tools to use and what architecture to implement? 
+                {t('services.service2.text')}
 							</p>
 						</div>
 					</div>
@@ -34,9 +39,9 @@ const Services = () => (
 					<div className="service">	
 						<span className="icon"><i className="fa fa-users fa-stack-1x fa-inverse"></i></span>            
 						<div className="service-content">	
-							<h3>Team organization</h3>
+							<h3>{t('services.service3.title')}</h3>
 							<p className="desc">
-							How to manage the delivery and maximize the velocity of your teams? 
+                {t('services.service3.text')}
 							</p>
 						</div>
 					</div>
@@ -44,9 +49,9 @@ const Services = () => (
 					<div className="service">	
 						<span className="icon"><i className="fa fa-stethoscope fa-stack-1x fa-inverse"></i></span>            
 						<div className="service-content">	
-							<h3>Audit</h3>
+							<h3>{t('services.service4.title')}</h3>
 							<p className="desc">
-							How to improve your existing organization, tech and/or product? 
+                {t('services.service4.text')}
 							</p>
 						</div>
 					</div>
@@ -54,9 +59,9 @@ const Services = () => (
 					<div className="service">	
 						<span className="icon"><i className="fa fa-microphone fa-stack-1x fa-inverse"></i></span>            
 						<div className="service-content">	
-							<h3>Coaching</h3>
+							<h3>{t('services.service5.title')}</h3>
 							<p className="desc">
-							How to support your teams over the long term and help them progress?
+                {t('services.service5.text')}
 							</p>
 						</div>
 					</div>
@@ -66,5 +71,4 @@ const Services = () => (
 			
 		</section>
   )
-
-	export default Services;
+}

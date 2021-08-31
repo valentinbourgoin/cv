@@ -1,0 +1,32 @@
+{
+  "intro": {
+    "title": "About", 
+    "subtitle": "Let me introduce myself.", 
+    "text": "Passionate about Tech, Product and Sports, I help teams deliver and achieve their goals. <br />My day-to-day:<ul><li>Solve problems, a lot.</li><li>Build a roadmap and prioritize features.</li><li>Lead teams and give technical direction.</li><li>Organize delivery and set up processes.</li><li>Run as fast as possible and pedal as long as possible...</li></ul>"
+  }, 
+  "profile": {
+    "title": "Profile",
+    "text": "Graduated as an engineer, I have been working for 12 years closely with Tech & Product teams. My background as a developer gives me the opportunity to be involved in the technical direction while being obsessed with product quality and user experience.",
+    "name_title": "Fullname:",
+    "name_text": "Valentin Bourgoin",
+    "age_title": "Age:",
+    "age_text": "34 yo",
+    "location_title": "Location:",
+    "location_text": "Nantes, France",
+    "email_title": "Email:",
+    "email_text": "hello@valentinbourgoin.fr"
+  },
+  "skills": {
+    "title": "Skills", 
+    "text": "I can take part in the setup of delivery processes, the general management of teams, the building of a roadmap or the choice of technical architecture for the product.",
+    "skill1": "Team management",
+    "skill2": "Agile methodologies",
+    "skill3": "Product Roadmap",
+    "skill4": "Technical specifications",
+    "skill5": "Code stuff"
+  }, 
+  "buttons": {
+    "contact": "Contact me",
+    "hire": "Hire me on Malt"
+  }
+}

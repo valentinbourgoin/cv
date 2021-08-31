@@ -1,0 +1,27 @@
+{
+  "title": "Services", 
+  "subtitle": "Comment puis-je vous aider ?",
+  "text": "Vous avez des besoins court-termes sur la stratégie de développement d'un MVP, sur l'organisation ou le scale de votre delivery ? Je serais ravi de vous aider !",
+  "services": {
+    "service1": {
+      "title": "Strategie MVP",
+      "text": "Quelle fonctionnalité doit être priorisée ? Comment minimiser le time-to-market ?"
+    },
+    "service2": {
+      "title": "Architecture technique",
+      "text": "Comment concevoir votre prochaine killer feature ? Quels outils utiliser et quelle architecture implémenter ?"
+    },
+    "service3": {
+      "title": "Organisation d'équipe",
+      "text": "Comment organiser la delivery et maximiser la vélocité de vos équipes ?"
+    },
+    "service4": {
+      "title": "Audit",
+      "text": "Comment améliorer votre organisation Tech / Product déjà en place ? "
+    },
+    "service5": {
+      "title": "Coaching",
+      "text": "Comment soutenir vos équipes sur le long terme et les aider à progresser ?"
+    }
+  }
+}

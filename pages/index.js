@@ -1,10 +1,12 @@
+import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
+
 import Intro from '../components/intro';
 import About from '../components/about';
 import Resume from '../components/resume';
 import Services from '../components/services';
 import Contact from '../components/contact';
 
-export default function Home() {
+const Home = () => {
   return (
     <div className="container">
       <Intro />
@@ -12,7 +14,19 @@ export default function Home() {
       <Services />
       <Resume />
       <Contact />
-    
     </div>
   )
 }
+
+export const getStaticProps = async ({ locale }) => ({
+  props: {
+    ...await serverSideTranslations(locale, [
+      'common',
+      'intro', 
+      'about',
+      'services'
+  ]),
+  },
+})
+
+export default Home;

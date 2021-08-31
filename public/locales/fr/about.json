@@ -1,0 +1,32 @@
+{
+  "intro": {
+    "title": "A propos", 
+    "subtitle": "En quelques mots...", 
+    "text": "Passionné de Tech, de Produit et de sport, j'aide les équipes à livrer et à atteindre leurs objectifs. <br />Mon quotidien:<ul><li>Régler des problèmes (beaucoup).</li><li>Constuire une roadmap et prioriser des features.</li><li>Leader des équipes et leur donner une direction et une vision technique.</li><li>Organiser la delivery et mettre en place des processes.</li><li>Courir vite et pédaler le plus longtemps possible...</li></ul>"
+  }, 
+  "profile": {
+    "title": "Profil",
+    "text": "Diplômé en tant qu'ingénieur, je travaille au sein d'équipes Tech & Produit depuis 12 ans. Mon background de développeur me donne l'opportunité de participer aux décisions techniques tout en étant obsédé de la qualité du produit et de l'expérience utilisateur.",
+    "name_title": "Nom :",
+    "name_text": "Valentin Bourgoin",
+    "age_title": "Age :",
+    "age_text": "34 ans",
+    "location_title": "Localisation :",
+    "location_text": "Nantes",
+    "email_title": "E-mail :",
+    "email_text": "hello@valentinbourgoin.fr"
+  },
+  "skills": {
+    "title": "Compétences", 
+    "text": "Je peux prendre part à la mise en place de processes de delivery, à la construction et la priorisation d'une roadmap ou encore à l'élaboration d'une architecture technique.",
+    "skill1": "Management d'équipes",
+    "skill2": "Méthodologies agiles",
+    "skill3": "Roadmap Produit",
+    "skill4": "Spécifications techniques",
+    "skill5": "Coder des trucs"
+  }, 
+  "buttons": {
+    "contact": "Contact",
+    "hire": "RDV sur Malt"
+  }
+}
