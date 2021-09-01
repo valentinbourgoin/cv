@@ -1,12 +1,16 @@
+import { useTranslation } from 'next-i18next';
+
 export default function Footer() {
+  const { t } = useTranslation();
+
   return (
 		<footer>
      	<div className="row">
       	<div className="col-eight tab-full">
 	      	<div className="copyright">
-		        	<span>© Copyright 2021 </span> 
-		        	<span>Design by <a href="http://www.styleshout.com/">styleshout</a></span> 
-		        	<span>Coded with NextJS & love in Nantes 🐘</span>	         	
+		        	<span>{t('footer.copyright')}</span> 
+		        	<span>{t('footer.design')} <a href="http://www.styleshout.com/">styleshout</a></span> 
+		        	<span>{t('footer.coded')}</span>	         	
 		         </div>		                  
 	      	</div>
 

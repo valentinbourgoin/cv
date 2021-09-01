@@ -24,7 +24,9 @@ export const getStaticProps = async ({ locale }) => ({
       'common',
       'intro', 
       'about',
-      'services'
+      'services',
+      'resume',
+      'contact'
   ]),
   },
 })

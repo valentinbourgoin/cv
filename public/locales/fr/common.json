@@ -1,2 +1,11 @@
 {
+  "meta": {
+    "title": "Valentin Bourgoin | CTO / CPO à la demande",
+    "description": "Passionné de Tech, Produit et de sport, j'aide les équipes à délivrer et à atteindre leurs objectifs. Je travaille depuis 12 ans au sein d'équipes Tech & Produit. Mon background d'ingénieur me permet d'être impliqué dans la direction technique tout en étant obsédé de qualité Produit et d'expérience utilisateur."
+  },
+  "footer": {
+    "copyright": "© Copyright 2021 ",
+    "design": "Design par",
+    "coded": "Codé avec NextJS & amour depuis Nantes 🐘"
+  }
 }

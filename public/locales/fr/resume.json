@@ -1,0 +1,37 @@
+{
+  "intro": {
+    "title": "Plus d'infos",
+    "subtitle": "Mon CV",
+    "text": "Vous trouverez ici mes principales références en tant que CTO, CPO ou ingénieur web."
+  }, 
+  "work": {
+    "title": "Expériences professionnelles",
+    "work1": {
+      "title": "Senior VP Product",
+      "date": "Sept 2016 - Juillet 2021", 
+      "company": "Sport Heroes",
+      "text": "Sport Heroes est une start-up qui édite un produit SaaS qui permet à plus de 300 partenaires (marques, organisateurs d'événements, ONGs, entreprises) d'engager leurs communautés de clients, collaborateurs ou fans autour du sport connecté et du bien-être.<br /><hr />Management de l'équipe Product & Tech team (environ 25 personnes&nbsp;:&nbsp;Product Managers / Designers, Engineering Managers, développeurs, User Care) en squads agiles. En charge de la priorisation de la roadmap, de la delivery et des processes. <hr />Stack : React / React Native, Node, Mongo, Redis, AWS."
+    }, 
+    "work2": {
+      "title": "Head of Technology",
+      "date": "Sept 2015 - Sept 2016", 
+      "company": "909c (WNP)",
+      "text": "909c est une agence social media, rachetée par WNP en 2017. <br /><hr />Management de l'équipe technique dans le cadre de projets variés : planning, management quotidien, architecture technique. <br /><hr />Stack : Symfony, Wordpress, eZPublish, VueJS, ..."
+    }, 
+    "work3": {
+      "title": "Ingénieur web",
+      "date": "Juillet 2010 - Sept 2015", 
+      "company": "Freelance",
+      "text": "- Dév web front / mobile / back. <br />- Hébergement. <br />- Conseil / formation. <br />- Intervenant à L'Université Paris-Est.<hr />Stack: Python / Django, Symfony, Wordpress, Angular, ..."
+    } 
+  },
+  "school": {
+    "title": "Education",
+    "school1": {
+      "title": "Ingénieur IMAC",
+      "date": "2006 - 2009",
+      "university": "Université de Paris Est - ESIPE",
+      "text": "Diplôme d'ingénieur généraliste"
+    }
+  }
+}

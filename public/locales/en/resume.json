@@ -1,0 +1,37 @@
+{
+  "intro": {
+    "title": "Resume",
+    "subtitle": "More of my references.",
+    "text": "You will find below my main experiences as CTO / CPO or web engineer."
+  }, 
+  "work": {
+    "title": "Work Experience",
+    "work1": {
+      "title": "Senior VP Product",
+      "date": "Sept 2016 - July 2021", 
+      "company": "Sport Heroes",
+      "text": "Sport Heroes is a start-up that edits a SaaS product that allows more than 300 partners (brands, event organizers, NGOs, companies) to engage their community of customers, collaborators, or fans, using connected sports and well-being. <br /><hr />Management of the Product & Tech team (about 25 people: Product Managers / Designers, Engineering Managers, Developers, User Care) in agile squads. In charge of the roadmap, delivery and processes. <hr />Stack: React / React Native, Node, Mongo, Redis, AWS."
+    }, 
+    "work2": {
+      "title": "Head of Technology",
+      "date": "Sept 2015 - Sept 2016", 
+      "company": "909c (WNP)",
+      "text": "909c is a social media agency, acquired by WNP in 2017. <br /><hr />Management of the technical team on various agency projects: planning, daily management, technical architecture. <br /><hr />Stack : Symfony, Wordpress, eZPublish, VueJS, ..."
+    }, 
+    "work3": {
+      "title": "Web engineer",
+      "date": "July 2010 - Sept 2015", 
+      "company": "Freelance",
+      "text": "- Web development front / mobile / back. <br />- Hosting. <br />- Consulting / training. <br />- Teacher / speaker at Paris-Est University.<hr />Stack: Python / Django, Symfony, Wordpress, Angular, ..."
+    } 
+  },
+  "school": {
+    "title": "Education",
+    "school1": {
+      "title": "IMAC Engineer",
+      "date": "2006 - 2009",
+      "university": "Paris-Est University",
+      "text": "General Engineering Degree"
+    }
+  }
+}

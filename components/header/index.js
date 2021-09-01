@@ -1,19 +1,26 @@
 import Link from 'next/link'
-import { useRouter } from "next/router";
+
+import styled from "styled-components";
 
 export default function Header() {
-	const { locale } = useRouter();
+  const LangMenu = styled.div`
+    font-size: 3rem;
+    margin: 10px;
+    a {
+      margin: 0 3px;
+    }
+  `;
 
 	return (
 		<header>
-			<div className="langMenu">
-				<Link href="/" locale="fr" activeClassName={locale === "fr"}>
-					<a>FR</a>
+			<LangMenu>
+				<Link href="/" locale="fr">
+					<a>🇫🇷</a>
 				</Link>
-				<Link href="/" locale="en" activeClassName={locale === "en"}>
-					<a>EN</a>
+				<Link href="/" locale="en">
+					<a>🇬🇧</a>
 				</Link>
-			</div>
+			</LangMenu>
 		</header>
 	)
 }

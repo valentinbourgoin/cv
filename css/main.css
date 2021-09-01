@@ -1689,6 +1689,7 @@ header .logo a {
 #resume .timeline-content {
 	margin-left: 35%;
 	padding-left: 60px;
+	padding-bottom: 20px;
 }
 #resume .timeline-content h4 {
 	position: relative;

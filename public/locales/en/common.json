@@ -1,2 +1,11 @@
 {
+  "meta": {
+    "title": "Valentin Bourgoin | CTO / CPO on-demand",
+    "description": "Passionate about Tech, Product and Sports, I help teams deliver and achieve their goals. I have been working for 12 years closely with Tech & Product teams. My background as an engineer gives me the opportunity to be involved in the technical direction while being obsessed with product quality and user experience."
+  },
+  "footer": {
+    "copyright": "© Copyright 2021 ",
+    "design": "Design by",
+    "coded": "Coded with NextJS & love in Nantes 🐘"
+  }
 }

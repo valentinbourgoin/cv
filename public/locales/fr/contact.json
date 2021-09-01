@@ -1,0 +1,19 @@
+{
+  "title": "Contact", 
+  "subtitle": "Je serai ravi de vous rencontrer.",
+  "text": "N'hésitez pas à me contacter pour toute mission de consulting !",
+  "contact": {
+    "col1": {
+      "title": "Où me trouver",
+      "text":"Nantes, France "
+    }, 
+    "col2": {
+      "title": "Envoyez-moi un e-mail",
+      "text":"hello@valentinbourgoin.fr"
+    }, 
+    "col3": {
+      "title": "Bookez-moi sur Malt",
+      "text":"Mon profil Malt"
+    }
+  }
+}
