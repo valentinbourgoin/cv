@@ -1,7 +1,12 @@
-import React from 'react';
+import { React, useEffect, Fragment } from 'react';
 
 import Head from 'next/head'
 import { appWithTranslation, useTranslation } from 'next-i18next';
+
+import { init } from "@socialgouv/matomo-next";
+
+const MATOMO_URL = process.env.NEXT_PUBLIC_MATOMO_URL;
+const MATOMO_SITE_ID = process.env.NEXT_PUBLIC_MATOMO_SITE_ID;
 
 import Header from '../components/header';
 import Footer from '../components/footer';
@@ -15,8 +20,12 @@ import '../css/main.css'
 const Cv = function({ Component, pageProps }) {
   const { t } = useTranslation();
 
+  useEffect(() => {
+    init({ url: MATOMO_URL, siteId: MATOMO_SITE_ID });
+  }, []); 
+
   return (
-    <React.Fragment>
+    <Fragment>
       <Head>
         <title>{t('meta.title')}</title>
         <meta name="description" content={t('meta.description')} />
@@ -28,7 +37,7 @@ const Cv = function({ Component, pageProps }) {
       <Header />
       <Component {...pageProps} />
       <Footer />
-    </React.Fragment>
+    </Fragment>
 	)
 }
 
