@@ -22,6 +22,10 @@
     "service5": {
       "title": "Coaching",
       "text": "How to support your teams over the long term and help them progress?"
+    },
+    "service6": {
+      "title": "Tech lead",
+      "text": "Do you need a senior dev to work on a feature or a product?"
     }
   }
 }

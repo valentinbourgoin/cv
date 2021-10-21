@@ -22,6 +22,10 @@
     "service5": {
       "title": "Coaching",
       "text": "Comment soutenir vos équipes sur le long terme et les aider à progresser ?"
+    }, 
+    "service6": {
+      "title": "Tech lead",
+      "text": "Vous avez besoin d'un contributeur sénior dans le cadre du développement d'un produit ou d'une fonctionnalité ?"
     }
   }
 }

@@ -2,11 +2,11 @@
   "intro": {
     "title": "A propos", 
     "subtitle": "En quelques mots...", 
-    "text": "Passionné de Tech, de Produit et de sport, j'aide les équipes à livrer et à atteindre leurs objectifs. <br />Mon quotidien:<ul><li>Régler des problèmes (beaucoup).</li><li>Constuire une roadmap et prioriser des features.</li><li>Leader des équipes et leur donner une direction et une vision technique.</li><li>Organiser la delivery et mettre en place des processes.</li><li>Courir vite et pédaler le plus longtemps possible...</li></ul>"
+    "text": "Passionné de Tech, de Produit (et de sport), j'aide les équipes à livrer et à atteindre leurs objectifs. <br />Mon quotidien:<ul><li>Régler des problèmes (beaucoup).</li><li>Constuire une roadmap et prioriser des features.</li><li>Leader des équipes et leur donner une direction et une vision technique.</li><li>Organiser la delivery et mettre en place des processes.</li><li>Courir vite et pédaler le plus longtemps possible...</li></ul>"
   }, 
   "profile": {
     "title": "Profil",
-    "text": "Diplômé en tant qu'ingénieur, je travaille au sein d'équipes Tech & Produit depuis 12 ans. Mon background de développeur me donne l'opportunité de participer aux décisions techniques tout en étant obsédé de la qualité du produit et de l'expérience utilisateur.",
+    "text": "Diplômé en tant qu'ingénieur, je travaille au sein d'équipes Tech & Produit depuis 12 ans. Mon background de développeur me donne l'opportunité de guider des équipes techniques tout en étant obsédé de la qualité du produit et de l'expérience utilisateur.",
     "name_title": "Nom :",
     "name_text": "Valentin Bourgoin",
     "age_title": "Age :",
@@ -23,7 +23,7 @@
     "skill2": "Méthodologies agiles",
     "skill3": "Roadmap Produit",
     "skill4": "Spécifications techniques",
-    "skill5": "Coder des trucs"
+    "skill5": "Coder (Django, Symfony, React...)"
   }, 
   "buttons": {
     "contact": "Contact",

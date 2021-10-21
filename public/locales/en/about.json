@@ -6,7 +6,7 @@
   }, 
   "profile": {
     "title": "Profile",
-    "text": "Graduated as an engineer, I have been working for 12 years closely with Tech & Product teams. My background as a developer gives me the opportunity to be involved in the technical direction while being obsessed with product quality and user experience.",
+    "text": "Graduated as an engineer, I have been working for 12 years closely with Tech & Product teams. My background as a developer gives me the opportunity to lead technical teams while being obsessed with product quality and user experience.",
     "name_title": "Fullname:",
     "name_text": "Valentin Bourgoin",
     "age_title": "Age:",
@@ -23,7 +23,7 @@
     "skill2": "Agile methodologies",
     "skill3": "Product Roadmap",
     "skill4": "Technical specifications",
-    "skill5": "Code stuff"
+    "skill5": "Code (Django, Symfony, React...)"
   }, 
   "buttons": {
     "contact": "Contact me",

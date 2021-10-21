@@ -64,7 +64,7 @@ export default function About() {
 					<strong>{t('skills.skill4')}</strong>
 					</li>
 					<li>
-					<div className="progress percent60"></div>
+					<div className="progress percent75"></div>
 					<strong>{t('skills.skill5')}</strong>
 					</li>
 				</ul>
