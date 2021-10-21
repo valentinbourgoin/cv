@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Valentin Bourgoin - Online CV, built with NextJS. 
+
+https://www.valentinbourgoin.fr
